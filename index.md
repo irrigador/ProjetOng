@@ -29,23 +29,6 @@ Aplicação com validação dos dados e utilizado metodo de teste ***jest*** apr
 
 ### Imagens da aplicação
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ![Image](https://github.com/irrigador/ProjetOng/blob/master/imagens%20aplica%C3%A7%C3%A3o/login.png?raw=true)
 ![Image](https://github.com/irrigador/ProjetOng/blob/master/imagens%20aplica%C3%A7%C3%A3o/detalhes%20dos%20casos.png?raw=true)
 ![Image](https://github.com/irrigador/ProjetOng/blob/master/imagens%20aplica%C3%A7%C3%A3o/cadastro%20de%20novos%20casos.png?raw=true)
