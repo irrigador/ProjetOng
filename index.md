@@ -1,6 +1,7 @@
 # Projeto Be-The-Hero
 
-O projeto Be The Hero se apresenta como um sistema fulltack desenvolvido com as principais stacks do mercado, sua aplicação é composta por uma tela de login, cadastro, dasbhoard e cadastrar novos casos utilizando conceitos UI/UX o sistema é integrado ao banco de dados relacional apresentando validação dos dados preenchidos e conceitos de tolerância a falhas. A versão mobile tem Api sincronizada com whatsapp e e-mail para interação com o usuário.
+O projeto Be The Hero tem o intuito de ajudar ONG's que precisam de ajuda em determinados casos, nela uma organização cria uma conta e recebe um ID de autenticação podendo cadastrar os casos que precisem de ajuda, descrevendo a situação e agregando o valor necessário, os usuários conseguem ver os casos e se conectar diretamente com a ONG por e-mail ou whatsapp. 
+A aplicação se apresenta como um sistema fulltack desenvolvido com as principais stacks do mercado, sua aplicação é composta por uma tela de login, cadastro, dasbhoard e cadastrar novos casos utilizando conceitos UI/UX o sistema é integrado ao banco de dados relacional apresentando validação dos dados preenchidos e conceitos de tolerância a falhas. A versão mobile tem Api sincronizada com whatsapp e e-mail para interação com o usuário.
 
 ## Back-End
 
